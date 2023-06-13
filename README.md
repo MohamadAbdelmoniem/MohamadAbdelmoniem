@@ -15,17 +15,17 @@
 ⚡ I believe that the best way to learn Embedded Systems is through hands-on experience and practical projects.
 
 💻 Skills: 
-<img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" />
-<img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" />
-<img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-<img alt="Embedded C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" />
-<img alt="Microcontrollers (ARM)" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arm/arm-original.svg" height="30" />
-<img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
-<img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
-<img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-<img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
-<img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
-<img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
+<img alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="30" />
+<img alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="30" />
+<img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30" />
+<img alt="Embedded C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="30" />
+<img alt="Microcontrollers (ARM)" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arm/arm-original.svg" height="30" />
+<img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30" />
+<img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30" />
+<img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" />
+<img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" />
+<img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" />
+<img alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="30" />
 
 🔗 Connect with me on: [LinkedIn](https://www.linkedin.com/in/mohamad-abdelmoniem-8931b9239/).
 
