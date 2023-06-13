@@ -1,4 +1,4 @@
-### Hi, I'm [Mohamad Ahmed Abdelmoniem] 👋
+### Hi, I'm Mohamad Ahmed Abdelmoniem 👋
 
 🎓 Senior Computer Engineering Student at Faculty of Engineering, Ain Shams University.
 
