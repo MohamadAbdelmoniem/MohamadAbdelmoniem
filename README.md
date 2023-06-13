@@ -6,7 +6,7 @@
 
 🌍 Based in Cairo, Egypt.
 
-✉️ You can reach me at [mohamada14@gmail.com].
+✉️ You can reach me at [mohamada14@gmail.com](mailto:mohamada14@gmail.com).
 
 🧠 Currently focused on learning Embedded Systems to develop my skills.
 
@@ -45,9 +45,6 @@
   </a>
 </p>
 
-
-
 🔗 Connect with me on: [LinkedIn](https://www.linkedin.com/in/mohamad-abdelmoniem-8931b9239/).
 
 Let's connect, collaborate, and create amazing technology solutions together!
-
