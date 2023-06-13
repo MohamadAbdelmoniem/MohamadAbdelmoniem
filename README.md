@@ -16,10 +16,10 @@
 
 💻 Skills: 
 <p align="middle">
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noopener noreferrer">
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
   </a>
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noopener noreferrer">
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
@@ -44,12 +44,13 @@
     <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
   </a>
   <a href="https://en.wikipedia.org/wiki/Verilog" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/verilog.png" alt="Verilog" />
+    <img src="https://img.icons8.com/officel/48/000000/code-file.png" alt="Verilog" />
   </a>
   <a href="https://en.wikipedia.org/wiki/VHDL" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/vhdl.png" alt="VHDL" />
+    <img src="https://img.icons8.com/color/48/000000/monitor.png" alt="VHDL" />
   </a>
 </p>
+
 
 
 🔗 Connect with me on: [LinkedIn](https://www.linkedin.com/in/mohamad-abdelmoniem-8931b9239/).
