@@ -43,12 +43,6 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
   </a>
-  <a href="https://en.wikipedia.org/wiki/Verilog" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/officel/48/000000/code-file.png" alt="Verilog" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/VHDL" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/monitor.png" alt="VHDL" />
-  </a>
 </p>
 
 
