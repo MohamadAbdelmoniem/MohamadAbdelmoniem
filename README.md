@@ -43,13 +43,14 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
   </a>
-    <a href="https://en.wikipedia.org/wiki/Verilog" target="_blank" rel="noopener noreferrer">
+  <a href="https://en.wikipedia.org/wiki/Verilog" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/48/000000/verilog.png" alt="Verilog" />
   </a>
   <a href="https://en.wikipedia.org/wiki/VHDL" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/48/000000/vhdl.png" alt="VHDL" />
   </a>
 </p>
+
 
 🔗 Connect with me on: [LinkedIn](https://www.linkedin.com/in/mohamad-abdelmoniem-8931b9239/).
 
