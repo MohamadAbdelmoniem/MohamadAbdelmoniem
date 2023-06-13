@@ -25,9 +25,6 @@
   <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
   </a>
-  <a href="https://en.wikipedia.org/wiki/ARM_architecture" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/fluent/48/000000/processor.png" alt="Microcontrollers (ARM)" />
-  </a>
   <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
   </a>
